@@ -1,0 +1,31 @@
+body{
+    background-image: url("table.jfif");
+    background-size:cover;
+    text-align: center;
+}
+h1{
+    color: rgb(0, 255, 13);
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    background-color: rgb(70, 59, 214);
+    color: white;
+    font-weight: bold;
+    padding: 6px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 6px;
+    border: 2px solid white;
+    border-radius: 4px;
+}
+img{
+    padding: 0;
+    height: 20px;
+    width: 20px;
+}
